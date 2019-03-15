@@ -1137,6 +1137,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [Language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
 - [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
 - [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers)
+- [Other books](https://www.jviotti.com/books)
 
 ---
 
