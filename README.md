@@ -235,6 +235,7 @@ The number after the book name stands for the year in which the book was written
 
 - [📕 TCP/IP network administration (1992)](http://www.goodreads.com/book/show/688363.TCP_IP_Network_Administration)
 - [📕 Tcp/IP illustrated (1993)](http://www.goodreads.com/book/show/505560.The_Protocols)
+- [📕 Tcp/IP illustrated Vol.3(1996)](https://github.com/horia-delicoti/books/blob/master/books/src/TCP-IP%20Illustrated%20Vol.3.pdf)
 - [📕 Interconnections: bridges, routers, switches, and internetworking protocols (1999)](http://www.goodreads.com/book/show/320321.Interconnections)
 - [📕 Computer networking: a top-down approach (2000)](http://www.goodreads.com/book/show/83847.Computer_Networking)
 - [📕 Unix network programming, volume 1: the sockets networking api (2003)](http://www.goodreads.com/book/show/239240.UNIX_Network_Programming_Volume_1)
@@ -1137,6 +1138,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [Language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
 - [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
 - [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers)
+- [Essential books for students](https://collegeinfogeek.com/essential-books-for-students/)
 - [Juan's books](https://www.jviotti.com/books)
 
 ---
