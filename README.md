@@ -122,6 +122,7 @@ The number after the book name stands for the year in which the book was written
 - [Strategy](#strategy)
 - [Text editors](#text-editors)
   - [Vim](#vim)
+- [Time management and productivity](#time-management-and-productivity)
 - [Type theory](#type-theory)
 - [Unix](#unix)
 - [Version Control](#version-control)
@@ -349,7 +350,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📕 Reinventing Fire (2013)](https://www.amazon.com/Reinventing-Fire-Business-Solutions-Energy/dp/1603585389/ref=sr_1_1?s=books&ie=UTF8&qid=1549520862&sr=1-1&keywords=reinventing+fire)
 - [📕 Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming (2017)](https://www.drawdown.org/)
 - [📕 Whole Earth Discipline (2009)](https://www.amazon.com/Whole-Earth-Discipline-Ecopragmatist-Manifesto/dp/0670021210)
-
+- [📖 Descrierea Moldovei](https://drive.google.com/drive/u/0/folders/1pN7t54Wcpu1eYNd301_lnf0tP9tb_OEd)
 
 ## Fiction
 
@@ -613,6 +614,8 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
 ## Mindset
 
+- [📕The Power of Habit: Why We Do What We Do, and How to Change (2013)](https://www.amazon.com/Power-Habit-Why-What-Change-ebook/dp/B006WAIV6M)
+- [📕Start with Why: How Great Leaders Inspire Everyone To Take Action (2011)](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone-ebook/dp/B005JZD3B4)
 - [📕 Tao te ching (6th century BC)](http://www.goodreads.com/book/show/67896.Tao_Te_Ching)
 - [📕 Meditations (161)](http://www.goodreads.com/book/show/30659.Meditations)
 - [📕 The Zen Teaching of Huang Po: On the Transmission of Mind (857)](https://www.goodreads.com/book/show/276779.The_Zen_Teaching_of_Huang_Po)
@@ -650,7 +653,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📕 Deep Work: Rules for Focused Success in a Distracted World (2016)](https://www.goodreads.com/book/show/25744928)
 - [📕 The Daily Stoic: 366 Meditations for Clarity, Effectiveness, and Serenity (2016)](https://www.goodreads.com/book/show/29093292-the-daily-stoic)
 - [📖 Concentration and meditation](http://krishnamurti.abundanthope.org/index_htm_files/Concentration-and-Meditation.pdf)
-
+- [📖 Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
 ## Minimalism
 
 - [📕 Goodbye, Things: The New Japanese Minimalism (2017)](https://www.goodreads.com/book/show/30231806-goodbye-things)
@@ -1072,6 +1075,12 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📖 Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 - [📖 Vim user manual](http://vimdoc.sourceforge.net/htmldoc/usr_toc.html) - Must read for anyone new to vim.
 
+## Time management and productivity
+
+- [📕 Getting things done](https://en.wikipedia.org/wiki/Getting_Things_Done)
+- [📖 Laura Vanderkam](https://lauravanderkam.com/)
+- [📖 Refined Life](https://www.refinedlife.io/)
+
 ## Type theory
 
 - [📖 Type Theory & Functional Programming (1999)](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
@@ -1134,12 +1143,13 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [Book notes](https://github.com/mgp/book-notes#readme)
 - [Book suggestions subreddit](https://www.reddit.com/r/booksuggestions)
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books#readme)
-- [Influenial CS books](https://github.com/chhantyal/influential-cs-books#readme)
+- [Influential CS books](https://github.com/chhantyal/influential-cs-books#readme)
 - [Language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
 - [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
 - [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers)
 - [Essential books for students](https://collegeinfogeek.com/essential-books-for-students/)
 - [Juan's books](https://www.jviotti.com/books)
+- [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
 
 ---
 
