@@ -5,6 +5,8 @@
 
 The number after the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest. Emojis before the books show if the book is free or not.
 
+**Remember that reading doesn’t change anything for you.** Reading isn’t enough. You must **apply** what you learn in order to get any benefit.
+
 ---
 
 ##### Contents
@@ -55,7 +57,6 @@ The number after the book name stands for the year in which the book was written
 - [History](#history)
   - [Alternative history](#alternative-history)
 - [Investing](#investing)
-- [Kubernetes](#kubernetes)
 - [Leadership](#leadership)
 - [Logic](#logic)
 - [Machine learning](#machine-learning)
@@ -114,6 +115,7 @@ The number after the book name stands for the year in which the book was written
 - [SciFi](#scifi)
   - [SciFi Series](#scifi-series)
 - [Security](#security)
+- [Site reliability engineering](#site-reliability-engineering)
 - [Sleep](#sleep)
 - [Society](#society)
 - [Spirituality](#spirituality)
@@ -130,7 +132,9 @@ The number after the book name stands for the year in which the book was written
 - [Visualization](#visualization)
 - [Writing](#writing)
 - [Web Development](#web-development)
+  - [HTML](#html)
   - [CSS](#css)
+  - [HTTP](#http)
   - [Node](#node)
   - [React](#react)
   - [Redux](#redux)
@@ -142,7 +146,7 @@ The number after the book name stands for the year in which the book was written
 
 ## Algorithms
 
-- [📖 Algorithm design manual (1987)](https://edisciplinas.usp.br/pluginfile.php/1995283/mod_resource/content/1/Skiena.-.TheAlgorithmDesignManual.pdf)
+- [📖 The Algorithm design manual (1987)](https://drive.google.com/open?id=17Jr9rBManLZ0TumDYUeXpBF5c0LBt5AZ)
 - [📕 Introduction to algorithms (1990)](http://www.goodreads.com/book/show/108986.Introduction_to_Algorithms)
 - [📕 Algorithm design (2005)](http://www.goodreads.com/book/show/145055.Algorithm_Design)
 - [📖 Algorithms by Dasgupta (2006)](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf)
@@ -518,9 +522,14 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
 - [📕 The intelligent investor (1949)](http://www.goodreads.com/book/show/106835.The_Intelligent_Investor)
 
-## Kubernetes
+## Site reliability engineering
 
+- [📖 Site Reliability Engineering](https://landing.google.com/sre/book.html)
+  - [DevOps Roadmap](https://roadmap.sh/devops)
 - [📕 Kubernetes: Up & Running (2016)](https://www.goodreads.com/book/show/26759355-kubernetes)
+  - [📖 Kubernetes Academy](https://kubernetes.academy/)
+- [📕 The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
+- [📕 The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/dp/1942788002)
 
 ## Leadership
 
@@ -553,6 +562,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📖 Interpretable Machine Learning (2018)](https://christophm.github.io/interpretable-ml-book/index.html)
 - [📖 Deep learning](http://www.deeplearningbook.org/)
 - [📖 Interpretable machine learning (2018)](https://christophm.github.io/interpretable-ml-book/) - Explaining the decisions and behavior of machine learning models.
+- [The Machine Question (2012)](https://drive.google.com/open?id=1OjC-V-7C0YWPuedtTKXYIro8YGmS0Qav)
 
 ## Management
 
@@ -614,13 +624,13 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
 ## Mindset
 
-- [📕The Power of Habit: Why We Do What We Do, and How to Change (2013)](https://www.amazon.com/Power-Habit-Why-What-Change-ebook/dp/B006WAIV6M)
-- [📕Start with Why: How Great Leaders Inspire Everyone To Take Action (2011)](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone-ebook/dp/B005JZD3B4)
+- [📕 The Power of Habit: Why We Do What We Do, and How to Change (2013)](https://www.amazon.com/Power-Habit-Why-What-Change-ebook/dp/B006WAIV6M)
+- [📕 Start with Why: How Great Leaders Inspire Everyone To Take Action (2011)](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone-ebook/dp/B005JZD3B4)
 - [📕 Tao te ching (6th century BC)](http://www.goodreads.com/book/show/67896.Tao_Te_Ching)
 - [📕 Meditations (161)](http://www.goodreads.com/book/show/30659.Meditations)
 - [📕 The Zen Teaching of Huang Po: On the Transmission of Mind (857)](https://www.goodreads.com/book/show/276779.The_Zen_Teaching_of_Huang_Po)
 - [📕 Siddhartha (1922)](http://www.goodreads.com/book/show/52036.Siddhartha)
-- [📕 How to win friends and influence people (1936)](http://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+- [📕 How to win friends and influence people (1936)](https://drive.google.com/open?id=0B4l6XbPcT2NmYk9wWGdTNEdMX3JLdmJCWDBhbDJ3Z1JvVHE0)
 - [📕 Think and grow rich (1937)](http://www.goodreads.com/book/show/30186948-think-and-grow-rich)
 - [📕 The stranger (1942)](http://www.goodreads.com/book/show/49552.The_Stranger)
 - [📕 Man’s search for meaning (1946)](http://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
@@ -632,11 +642,11 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📕 Be here now (1971)](http://www.goodreads.com/book/show/29254.Be_Here_Now)
 - [📕 The Way of the Bodhisattva (1971)](https://www.goodreads.com/book/show/301928.The_Way_of_the_Bodhisattva)
 - [📕 The inner game of tennis (1974)](http://www.goodreads.com/book/show/905.The_Inner_Game_of_Tennis)
-- [📕 The 7 habits of highly effective people (1989)](http://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
 - [📕 The Zen Teaching of Bodhidharma (1989)](https://www.goodreads.com/book/show/238863.The_Zen_Teaching_of_Bodhidharma)
 - [📕 Peace is every step (1990)](http://www.goodreads.com/book/show/14572.Peace_Is_Every_Step)
 - [📖 Mindfulness in plain english (1992)](http://misc.equanimity.info/downloads/mindfulness_in_plain_english.pdf)
 - [📕 Mastery: the keys to success and long term fulfilment (1992)](http://www.goodreads.com/book/show/81940.Mastery)
+- [📕 Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
 - [📕 The Four Noble Truths (1992)](https://www.goodreads.com/book/show/25103623-the-four-noble-truths)
 - [📕 No Ajahn Chah: Reflections (1994)](https://www.goodreads.com/book/show/1948802.No_Ajahn_Chah)
 - [📕 The Art of Happiness (1998)](https://www.goodreads.com/book/show/38210.The_Art_of_Happiness)
@@ -654,6 +664,9 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📕 The Daily Stoic: 366 Meditations for Clarity, Effectiveness, and Serenity (2016)](https://www.goodreads.com/book/show/29093292-the-daily-stoic)
 - [📖 Concentration and meditation](http://krishnamurti.abundanthope.org/index_htm_files/Concentration-and-Meditation.pdf)
 - [📖 Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
+- [📕 Sapiens: A Brief History of Humankind (2011)](https://carturesti.ro/carte/sapiens-scurta-istorie-a-omenirii-1983201)
+- [📕 The 4-Hour Workweek](https://en.wikipedia.org/wiki/The_4-Hour_Workweek)
+
 ## Minimalism
 
 - [📕 Goodbye, Things: The New Japanese Minimalism (2017)](https://www.goodreads.com/book/show/30231806-goodbye-things)
@@ -744,7 +757,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
 ## Programming interviews
 
-- [📕 Cracking the coding interview (2008)](http://www.goodreads.com/book/show/12544648-cracking-the-coding-interview)
+- [📖 Cracking the coding interview (2016)](https://drive.google.com/open?id=1yiVEcFkJqAUCG70evcHW6gzq4ucOCODB)
   - [Solutions in swift](https://github.com/careercup/CtCI-6th-Edition-Swift)
 - [📕 Elements of programming interviews (2012)](http://www.goodreads.com/book/show/16253895-elements-of-programming-interviews)
   - [Solutions in Go](https://github.com/mykoweb/epi-go)
@@ -827,6 +840,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
   - [📖 Types and grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
   - [📖 Async and performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
   - [📖 ES6 and beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
+- [📖 The Modern JavaScript](https://javascript.info/)
 - [📖 Exploring js](http://exploringjs.com/)
 - [📖 Eloquent JavaScript (2011)](http://eloquentjavascript.net/00_intro.html)
 - [📕 Effective JavaScript: 68 specific ways to harness the power of JavaScript (2012)](http://www.goodreads.com/book/show/13705402-effective-javascript)
@@ -1077,7 +1091,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
 ## Time management and productivity
 
-- [📕 Getting things done](https://en.wikipedia.org/wiki/Getting_Things_Done)
+- [📖 Getting things done](https://en.wikipedia.org/wiki/Getting_Things_Done)
 - [📖 Laura Vanderkam](https://lauravanderkam.com/)
 - [📖 Refined Life](https://www.refinedlife.io/)
 
@@ -1109,11 +1123,18 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
 ## Web Development
 
-- [📖 Site Reliability Engineering](https://landing.google.com/sre/book.html)
+### HTML
+
+- [📖 HTML5 Up and running (2010)](https://drive.google.com/drive/u/0/folders/1pN7t54Wcpu1eYNd301_lnf0tP9tb_OEd)
 
 ### CSS
 
 - [📖 Learn CSS Layout the pedantic way (2015)](http://book.mixu.net/css/)
+- [📖 CSS the missing manual (2009)](https://drive.google.com/drive/u/0/folders/1pN7t54Wcpu1eYNd301_lnf0tP9tb_OEd)
+
+### HTTP
+
+- [📖 HTTP The Definitive Guide (2002)](https://drive.google.com/drive/u/0/folders/1pN7t54Wcpu1eYNd301_lnf0tP9tb_OEd)
 
 ### Node
 
@@ -1148,11 +1169,13 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
 - [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers)
 - [Essential books for students](https://collegeinfogeek.com/essential-books-for-students/)
-- [Juan's books](https://www.jviotti.com/books)
 - [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
+- [Books](https://drive.google.com/drive/u/0/folders/1pN7t54Wcpu1eYNd301_lnf0tP9tb_OEd)
+- [Juan's books](https://www.jviotti.com/books)
 
 ---
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
+[![forked from learn-anything](https://img.shields.io/badge/-learn--anything-lightgrey)](https://github.com/learn-anything/books)
