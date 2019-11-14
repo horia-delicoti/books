@@ -666,6 +666,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📖 Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
 - [📕 Sapiens: A Brief History of Humankind (2011)](https://carturesti.ro/carte/sapiens-scurta-istorie-a-omenirii-1983201)
 - [📕 The 4-Hour Workweek](https://en.wikipedia.org/wiki/The_4-Hour_Workweek)
+- [📕 Drumul spre Medicina (2016)](https://www.goodreads.com/book/show/31283133-drumul-spre-medicin)
 
 ## Minimalism
 
