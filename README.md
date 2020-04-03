@@ -667,6 +667,8 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📕 Sapiens: A Brief History of Humankind (2011)](https://carturesti.ro/carte/sapiens-scurta-istorie-a-omenirii-1983201)
 - [📕 The 4-Hour Workweek](https://en.wikipedia.org/wiki/The_4-Hour_Workweek)
 - [📕 Drumul spre Medicina (2016)](https://www.goodreads.com/book/show/31283133-drumul-spre-medicin)
+- [📕 27 de pasi by Tibi Useriu](https://carturesti.ro/carte/27-de-pasi-1658086)
+- [📕 A Mind for Numbers: How to Excel at Math and Science](https://www.amazon.com/gp/product/039916524X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=039916524X&linkCode=as2&tag=learningho0a9-20&linkId=D4N64HNWGXOU5SBK)
 
 ## Minimalism
 
