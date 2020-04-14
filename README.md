@@ -669,6 +669,9 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📕 Drumul spre Medicina (2016)](https://www.goodreads.com/book/show/31283133-drumul-spre-medicin)
 - [📕 27 de pasi by Tibi Useriu](https://carturesti.ro/carte/27-de-pasi-1658086)
 - [📕 A Mind for Numbers: How to Excel at Math and Science](https://www.amazon.com/gp/product/039916524X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=039916524X&linkCode=as2&tag=learningho0a9-20&linkId=D4N64HNWGXOU5SBK)
+- [📕 Switch On Your Brain](https://drleaf.com/collections/all/products/switch-on-your-brain) - [📕 Pune-ti creierul in functiune](https://www.stephanus.ro/pune-ti-creierul-in-functiune/)
+- [📕 The Subtle Art of Not Giving a F_ck](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive-ebook/dp/B019MMUA8S/ref=sr_1_1?dchild=1&keywords=fuk+MARK+MANSON&qid=1586855637&s=books&sr=1-1) - [📕 Arta subtila a nepasarii
+Arta subtila a nepasarii](https://carturesti.ro/carte/arta-subtila-a-nepasarii-2328214?t=a_cart&p=2)
 
 ## Minimalism
 
