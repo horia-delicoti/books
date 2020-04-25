@@ -625,6 +625,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 ## Mindset
 
 - [📕 The Power of Habit: Why We Do What We Do, and How to Change (2013)](https://www.amazon.com/Power-Habit-Why-What-Change-ebook/dp/B006WAIV6M)
+- [📕 7 Habits Of Highly Effective People (1989)](https://www.amazon.com/7-Habits-Highly-Effective-People/dp/1416502491) 
 - [📕 Start with Why: How Great Leaders Inspire Everyone To Take Action (2011)](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone-ebook/dp/B005JZD3B4)
 - [📕 Tao te ching (6th century BC)](http://www.goodreads.com/book/show/67896.Tao_Te_Ching)
 - [📕 Meditations (161)](http://www.goodreads.com/book/show/30659.Meditations)
