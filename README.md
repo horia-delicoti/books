@@ -717,6 +717,8 @@ Arta subtila a nepasarii](https://carturesti.ro/carte/arta-subtila-a-nepasarii-2
 - [📖 Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
 - [📖 intermezzOS](https://intermezzos.github.io/book/second-edition/)
 - [📖 The Debian 8 Administrator's Handbook](https://www.debian.org/doc/manuals/debian-handbook/)
+- [📖 CentOS Administrator's Handbook](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system_administrators_guide/index)
+- [📖 The Linux System Administrator's Guide](http://www.tldp.org/LDP/sag/html/index.html)
 
 ### iOS
 
