@@ -916,6 +916,7 @@ Arta subtila a nepasarii](https://carturesti.ro/carte/arta-subtila-a-nepasarii-2
   - [Notes](https://github.com/jordanpoulton/practical_object_oriented_design_in_ruby)
   - [Go implementation](https://github.com/nathany/go-poodr)
 - [📕 Confident ruby (2013)](http://www.goodreads.com/book/show/15847933-confident-ruby)
+- [📖 Learn to Program by Chris Pine](http://www.r-5.org/files/books/computers/languages/ruby/main/Chris_Pine-Learn_to_Program-EN.pdf)
 
 ### Rust
 
