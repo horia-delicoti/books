@@ -253,6 +253,7 @@ The number after the book name stands for the year in which the book was written
 - [📖 Beej's guide to network programming (2016)](http://beej.us/guide/bgnet/)
 - [📖 Distributed Systems 3rd edition (2017)](https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/)
 - [📖 An introduction to computer networks](http://intronetworks.cs.luc.edu/current/html/)
+- [📖Computer Networks 5th Edition by Tanenbaum](https://www.goodreads.com/book/show/166190.Computer_Networks?ac=1&from_search=true&qid=qqUwdbwYID&rank=1)
 
 ## Computer science
 
@@ -726,7 +727,7 @@ Arta subtila a nepasarii](https://carturesti.ro/carte/arta-subtila-a-nepasarii-2
 
 ### Linux
 
-- [📕 How linux works (2014)](http://www.goodreads.com/book/show/514432.How_Linux_Works)
+- [📕 How linux works: What every superuser should know (2014)](http://index-of.es/Varios-2/How%20Linux%20Works%20What%20Every%20Superuser%20Should%20Know.pdf)
 
 ### MacOS
 
@@ -911,12 +912,13 @@ Arta subtila a nepasarii](https://carturesti.ro/carte/arta-subtila-a-nepasarii-2
 
 - [📕 The well grounded rubyist (2009)](http://www.goodreads.com/book/show/3892688-the-well-grounded-rubyist)
 - [📕 Eloquent ruby (2011)](http://www.goodreads.com/book/show/9364729-eloquent-ruby)
-- [📕 Practical object oriented design in ruby (2012)](http://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby)
+- [📕 Practical object oriented design in ruby (2012)](http://www.r-5.org/files/books/computers/dev-teams/diagrams/Sandi_Metz-Practical_Object-Oriented_Design_in_Ruby-EN.pdf)
   - [Code solutions](https://github.com/skmetz/poodr)
   - [Notes](https://github.com/jordanpoulton/practical_object_oriented_design_in_ruby)
   - [Go implementation](https://github.com/nathany/go-poodr)
 - [📕 Confident ruby (2013)](http://www.goodreads.com/book/show/15847933-confident-ruby)
 - [📖 Learn to Program by Chris Pine](http://www.r-5.org/files/books/computers/languages/ruby/main/Chris_Pine-Learn_to_Program-EN.pdf)
+- [📖 Ruby Monstas](http://rubymonstas.org/)
 
 ### Rust
 
@@ -1115,7 +1117,7 @@ Arta subtila a nepasarii](https://carturesti.ro/carte/arta-subtila-a-nepasarii-2
 
 ## Unix
 
-- [📕 Advanced programming in the unix environment (1992)](http://www.goodreads.com/book/show/603263.Advanced_Programming_in_the_UNIX_Environment)
+- [📕 Advanced programming in theUNIX environment, 3rd Edition](https://www.goodreads.com/book/show/41578205-advanced-unix-programming-environment?ac=1&from_search=true&qid=4zhoRviAxr&rank=2)
 - [📕 Unix power tools (1993)](http://www.goodreads.com/book/show/172314.UNIX_Power_Tools)
 - [📖 An introduction to unix (2014)](http://www.oliverelliott.org/article/computing/tut_unix/)
 
