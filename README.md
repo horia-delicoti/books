@@ -728,6 +728,7 @@ Arta subtila a nepasarii](https://carturesti.ro/carte/arta-subtila-a-nepasarii-2
 ### Linux
 
 - [📕 How linux works: What every superuser should know (2014)](http://index-of.es/Varios-2/How%20Linux%20Works%20What%20Every%20Superuser%20Should%20Know.pdf)
+- [📖 UNIX and Linux System Administration Handbook (2018)](https://mog.dog/files/SP2019/2017%20Nemeth%20Evi%20etal%20-%20UNIX%20and%20Linux%20System%20Administration%20Handbook%5B5thED%5D_Rell.pdf)
 
 ### MacOS
 
