@@ -1189,6 +1189,8 @@ Arta subtila a nepasarii](https://carturesti.ro/carte/arta-subtila-a-nepasarii-2
 - [Books](https://drive.google.com/drive/u/0/folders/1pN7t54Wcpu1eYNd301_lnf0tP9tb_OEd)
 - [Juan's books](https://www.jviotti.com/books)
 - [Bookss](https://github.com/MrAlex6204/Books)
+- [Essential Programming Books](https://www.goodreads.com/list/show/542.Essential_Programming_Books)
+- [Nikita wiki](https://wiki.nikitavoloboev.xyz/)
 
 ---
 
