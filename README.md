@@ -1191,6 +1191,7 @@ Arta subtila a nepasarii](https://carturesti.ro/carte/arta-subtila-a-nepasarii-2
 - [Bookss](https://github.com/MrAlex6204/Books)
 - [Essential Programming Books](https://www.goodreads.com/list/show/542.Essential_Programming_Books)
 - [Nikita wiki](https://wiki.nikitavoloboev.xyz/)
+- [Google career certficates](https://www.coursera.org/google-career-certificates)
 
 ---
 
