@@ -37,6 +37,7 @@ The number after the book name stands for the year in which the book was written
   - [Data Science](#data-science)
   - [Databases](#databases)
   - [Design](#design)
+  - [DevOps](#devops)
   - [Drugs](#drugs)
   - [Economics](#economics)
   - [Engineering](#engineering)
@@ -318,8 +319,12 @@ The number after the book name stands for the year in which the book was written
 - [📕 Alien Phenomenology or what its like to be a thing (2012)](https://www.amazon.com/Alien-Phenomenology-What-Thing-Posthumanities/dp/0816678987)
 - [📕 The Best Interface Is No Interface: The Simple Path to Brilliant Technology](http://www.nointerface.com/book/)
 - [📕 Speculative Everything (2013)](https://www.amazon.com/Speculative-Everything-Design-Fiction-Dreaming/dp/0262019841)
+- The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
-The Best Interface Is No Interface: The Simple Path to Brilliant Technology
+## DevOps
+
+- [Ansible for DevOps by Jeff Geerling](https://cloud.delicoti.com/d/f/o444VDABw5cbJMBcs9u7BKLgymDjkFGy)
+
 ## Drugs
 
 - [📕 A Primer of Drug Action (1975)](https://www.goodreads.com/book/show/1134902.A_Primer_of_Drug_Action)
@@ -710,7 +715,16 @@ Arta subtila a nepasarii](https://carturesti.ro/carte/arta-subtila-a-nepasarii-2
 - [📕 How not to die (2015)](http://www.goodreads.com/book/show/25663961-how-not-to-die)
 
 ## Operating Systems
-
+- [📕 Operating System Concepts” by Avi Silberschatz, Peter Galvin, Greg Gagne]()
+- [📕 Operating Systems: Internals and Design Principles” by William Stallings ]()
+- [📕 Operating Systems: A Concept-Based Approach” by D. M. Dhamdhere]()
+- [📕 Operating System: A Design-oriented Approach” by Charles Crowley]()
+- [📕 Operating Systems: A Modern Perspective” by Gary J. Nutt]()
+- [📕 Design of the Unix Operating Systems” by Maurice Bach]()
+- [📕 Operating System Concepts: Windows Xp Update 6th Edition” by Silberschatz Galvin Gagne]()
+- [📖 Operating Systems ” by Archer J. Harris]()
+- [📕 MODERN OPERATING SYSTEMS” by Andrew S. Tanenbaum]()
+- [📕 Unix – The Complete Reference” by Ken Rosen, James Farber, Rachel Klee, Douglas Host, Dick Rosinski]()
 - [📕 Operating system concepts (1983)](http://www.goodreads.com/book/show/83833.Operating_System_Concepts)
 - [📕 Modern operating systems (1992)](http://www.goodreads.com/book/show/166195.Modern_Operating_Systems)
 - [📕 Programming with Posix Threads (1993)](https://www.goodreads.com/book/show/987956.Programming_with_Posix_Threads)
